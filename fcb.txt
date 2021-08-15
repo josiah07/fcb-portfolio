@@ -1,0 +1,13 @@
+pwd = present working directory
+mkdir = mkdir
+touch = clear file
+
+
+
+git init
+
+git config --global user.name "(git_username)"
+
+git config --global user.email "(git_email)"
+
+git remote add origin (remote_url_https)
